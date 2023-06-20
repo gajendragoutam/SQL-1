@@ -1,5 +1,5 @@
 # SQL
-Welcome to my Data Analytics Portfolio! This is my project using SQL.
+Welcome to my SQL projects!
 
 **New Wheels Project**
 
